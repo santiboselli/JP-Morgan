@@ -4,10 +4,10 @@ Simple example to calculate metrics for given stocks and trades
 ## Description
 This source code will:
 * For a given stock,
-** Given any price as input, calculate the dividend yield
-** Given any price as input, calculate the P/E Ratio
-** Record a trade, with timestamp, quantity, buy or sell indicator and price
-** Calculate Volume Weighted Stock Price based on trades in past 5 minutes
+ * Given any price as input, calculate the dividend yield
+ * Given any price as input, calculate the P/E Ratio
+ * Record a trade, with timestamp, quantity, buy or sell indicator and price
+ * Calculate Volume Weighted Stock Price based on trades in past 5 minutes
 * Calculate the GBCE All Share Index using the geometric mean of the Volume Weighted Stock Price for all stocks
 
 ## Requirements
