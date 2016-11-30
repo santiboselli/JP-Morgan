@@ -1,7 +1,7 @@
 # Santiago Boselli
 # Super Simple Stock Market
 # JP Morgan & Chase Example Assignment
-# https://github.com/JP-Morgan/SuperSimpleStocksMarket
+# https://github.com/santiboselli/JP-Morgan/SuperSimpleStocksMarket
 
 # ------------------------------------ *** IMPORTS *** ------------------------------------
 
